@@ -10,4 +10,4 @@ In order to use this dashboard, you would need to have an existing MySQL DB with
 3. The page will open in a browser and you will be able to interact with the "project2" database
 
 ## Video Demos
-Please check out the video demos to see how the project is intended to work. Please excuse the dialog as the original audience was my professor for my CSE 5720 course
+Please check out the video demos to see how the project is intended to work. Please excuse the dialog as the original audience was my professor for my CSE 5720 course.
